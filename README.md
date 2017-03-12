@@ -13,6 +13,7 @@ Redis 2.8+ compatible.
 __NOTE__: Both version lines have same features except `CompletionStage` interface added in 3.x.x
 
 
+
 Features
 ================================
 * Replicated servers mode (also supports [AWS ElastiCache](http://docs.aws.amazon.com/AmazonElastiCache/latest/UserGuide/Replication.html) and [Azure Redis Cache](https://azure.microsoft.com/en-us/services/cache/)):
